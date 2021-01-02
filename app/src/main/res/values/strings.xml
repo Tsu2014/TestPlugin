@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestPlugin</string>
+    <string name="main_btn1">Func1</string>
+    <string name="main_btn2">Func2</string>
+    <string name="main_btn3">Func3</string>
+    <string name="main_btn4">Func4</string>
+</resources>
